@@ -2,3 +2,5 @@
 
 Titus Winters, Software Engineering at Google
 
+
+Engenharia de Software é uma programação mais avançada, que conta com dimensões mais complicadas como tempo, escalas. 
