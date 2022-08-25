@@ -9,6 +9,8 @@ Titus Winters, Software Engineering at Google
 
 - Engenharia de Software é uma programação mais avançada, que conta com dimensões mais complicadas como tempo, escalas.
 
+# 19 de agosto de 2022
+
 # Comentários sobre a explicação do professor:
 
 O que é engenharia de software?
