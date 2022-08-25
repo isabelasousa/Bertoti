@@ -36,3 +36,21 @@ O que é engenharia de software?
 - Cada linguagem tem suas vantagens e vantagens, todos têm suas trocas, se pontos positivos e positivos, e sua melhor atuação.
 
 - Não seja igual pato, que nada, anda e voa e faz tudo isso de um mau jeito. Seja bom em alguma coisa somente.
+
+# 25 de agosto de 2022
+
+- Situação fictícia: um restaurante quer um sistemas de auto-atendimento para WhatsApp, com opção para solicitar atendimento humano.
+
+# Requisitos funcionais:
+
+- Robô com opções de solicitar cardápio, formas de pagamento, entregas ou retiradas no restaurante, etc.
+- Interface onde será exibido as solicitações de atendimento humano e edição dos insumos.
+- Impressora que imprime os pedidos que ja foram finalizados pelo auto-atendimento.
+
+# Requisitos não funcionais:
+
+- O sistema personalizará o atendimento com base no nome que o usuário cadastra para seu usuário, será cordial e agradecerá sempre. 
+- Avisará assim que o pedido estiver pronto para retirada ou saindo para a entrega.
+- Terá um cardápio dinâmico, com opções de adicionais, vinculado a um banco de dados onde terá as informações de insumos, para que caso algum que o cliente escolher estiver em falta ele seja avisado.
+- Para atendimentos direto com um funcionário, ter a opção de enviar para a impressora o pedido, assim como os do auto-atendimento.
+
